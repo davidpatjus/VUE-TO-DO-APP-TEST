@@ -22,7 +22,7 @@ This is a simple Todo application built with Vue.js 3 and Vuetify. It allows use
 
 1. Clone the repository:
    \`\`\`
-   git clone https://github.com/your-username/vue-todo-app.git
+   git clone https://github.com/davidpatjus/VUE-TO-DO-APP-TEST
    cd vue-todo-app
    \`\`\`
 

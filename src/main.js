@@ -8,14 +8,14 @@ import * as directives from 'vuetify/directives'
 import '@mdi/font/css/materialdesignicons.css';
 
 
-// Components
+// Componentes
 import App from './App.vue'
 
 const vuetify = createVuetify({
   components,
   directives,
   icons: {
-    defaultSet: 'mdi', // Especificar el set de íconos
+    defaultSet: 'mdi',
   },
 })
 
